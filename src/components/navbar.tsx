@@ -13,7 +13,7 @@ const Navbar = () => {
         <div className="collapse navbar-collapse" id="navigation">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
-              <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="/astro-ecommerce/">
+              <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="/alma-merce/">
                 All Components
               </a>
             </li>
@@ -22,9 +22,9 @@ const Navbar = () => {
                 Pages
               </a>
               <ul className="dropdown-menu" aria-labelledby="pagesExample">
-                <li><a className="dropdown-item" href="/astro-ecommerce/landing/">Landing Page</a></li>
-                <li><a className="dropdown-item" href="/astro-ecommerce/product/">Product Page</a></li>
-                <li><a className="dropdown-item" href="/astro-ecommerce/shopping-cart/">Shopping Cart</a></li>
+                <li><a className="dropdown-item" href="/alma-merce/landing/">Landing Page</a></li>
+                <li><a className="dropdown-item" href="/alma-merce/product/">Product Page</a></li>
+                <li><a className="dropdown-item" href="/alma-merce/shopping-cart/">Shopping Cart</a></li>
               </ul>
             </li>
             <li className="nav-item">

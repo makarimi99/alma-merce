@@ -1,8 +1,8 @@
 {
-  "name": "astro-ecommerce",
+  "name": "alma-merce",
   "type": "module",
   "version": "1.0.0",
-  "description": "The ultimate starter template for your e-commerce web project",
+  "description": "Alma food company",
   "main": "assets/js/astro-ecommerce.min.js",
   "scripts": {
     "dev": "astro dev",
@@ -12,23 +12,11 @@
     "astro": "astro"
   },
   "keywords": [
-    "Astro",
-    "Ecommerce",
-    "Corporate",
-    "Store Theme",
-    "Online Store",
-    "Ecommerce template",
-    "Astro e-commerce",
-    "Astro ecommerce",
-    "Astro store",
-    "Store theme",
-    "ecommerce theme",
-    "Astro Ecommerce theme",
-    "Astro Ecommerce store",
-    "Astro template",
-    "Astro store template"
+    "alma",
+    "aabiro"
+
   ],
-  "author": "Creative Tim <hello@creative-tim.com> (https://www.creative-tim.com/)",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "@astrojs/react": "^1.2.1",
@@ -46,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/astro-ecommerce.git"
+    "url": "git+https://github.com/makarimi99/alma-merce.git"
   },
   "bugs": {
-    "url": "https://github.com/creativetimofficial/astro-ecommerce/issues"
+    "url": "https://github.com/makarimi99/alma-merce/issues"
   },
-  "homepage": "https://www.creative-tim.com/astro"
+  "homepage": "https://amazing-travesseiro-e89a9e.netlify.app/"
 }
